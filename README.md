@@ -16,7 +16,7 @@ Este repositório contém os arquivos e configurações do exercício 01 do Labo
 - Ter uma conta no Docker Hub
 - Arquivos disponíveis no Colabweb para o Laboratório (caso necessário)
 
-## 🚀 Como funciona o workflow
+## 🚀 Como funciona o workflow:
 
 O arquivo `build.yml` define um fluxo de trabalho que é executado automaticamente quando há um `push` ou `pull request` no branch `main`. Ele pode incluir etapas como:
 
