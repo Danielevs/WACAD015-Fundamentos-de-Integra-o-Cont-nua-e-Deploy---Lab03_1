@@ -28,7 +28,7 @@ O arquivo `build.yml` define um fluxo de trabalho que é executado automaticamen
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Danielevs/WACAD015-Fundamentos-de-Integracao-Continua-e-Deploy---Lab02---Exercicio-2
+   git clone https://github.com/Danielevs/WACAD015-Fundamentos-de-Integra-o-Cont-nua-e-Deploy---Lab03_1
 
 2. Faça alterações e envie para o GitHub
 
