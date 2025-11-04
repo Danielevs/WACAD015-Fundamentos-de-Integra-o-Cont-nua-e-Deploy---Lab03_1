@@ -1,4 +1,5 @@
 {
+  "name": "03-basic-example",
   "type": "module",
   "devDependencies": {
     "@types/jest": "^30.0.0",
